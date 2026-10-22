@@ -1,0 +1,28 @@
+{
+  "id": "FDE-M1-000",
+  "module": "M1",
+  "topic": "",
+  "type": "single",
+  "stem": "",
+  "options": { "A": "", "B": "", "C": "", "D": "" },
+  "answer": [],
+  "explanation": "",
+  "distractors": { "A": "", "B": "", "C": "" },
+  "difficulty": "基础",
+  "sources": [
+    {
+      "url": "",
+      "title": "",
+      "section": "",
+      "fact": "",
+      "verifiedAt": "",
+      "version": ""
+    }
+  ],
+  "review": {
+    "status": "draft",
+    "author": "",
+    "reviewer": null,
+    "notes": []
+  }
+}
